@@ -1,0 +1,34 @@
+/*place du header global*/
+.block{
+  font-family: 'Delius Swash Caps', cursive;
+  color: #946E83;
+  text-align: center;
+  background-color: #EFDEE0;
+  padding: 0.5em 0.5em 0.5em 0.5em;
+  margin:2.7em;
+  width: 350px;
+  height: 500px;
+}
+#blockLine{
+  background-color: #F4EFE5;
+  display: flex;
+}
+#blockLine2{
+  background-color: #F4EFE5;
+    display: flex;
+}
+.imgCadre{
+  width: 350px;
+  height: 350px;
+}
+h3{
+  font-size: 1em;
+}
+p{
+  font-family: 'Delius', cursive;
+  color: #946E83;
+}
+#textLink{
+  color: #D3A5AB;
+  text-decoration: underline;
+}
